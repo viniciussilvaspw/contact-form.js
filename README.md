@@ -11,7 +11,7 @@
 <br>
 5- Exibição de uma mensagem de confirmação para o usuário quando o e-mail é enviado com sucesso.
 <br>
-6- Este projeto permite que os visitantes do site entrem em contato de forma conveniente, enviando mensagens diretamente do site para o endereço de e-mail desejado, usando o serviço Email.js para facilitar o processo de envio de e-mails.
+Este projeto permite que os visitantes do site entrem em contato de forma conveniente, enviando mensagens diretamente do site para o endereço de e-mail desejado, usando o serviço Email.js para facilitar o processo de envio de e-mails.
 
 
 
